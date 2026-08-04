@@ -1,133 +1,286 @@
 # Hi 👋, I'm Mohamed Thoufiq K
 
-```{=html}
-<h3 align="center">
-```
-☁️ Aspiring Cloud & DevOps Engineer
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-Building secure, scalable and automated cloud infrastructure using AWS,
-Linux, Docker, Kubernetes and Terraform.
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins;Always+Learning+New+Technologies" />`{=html}
-```{=html}
-</p>
-```
+# ☁️ Aspiring Cloud & DevOps Engineer
 
-------------------------------------------------------------------------
+Building secure, scalable, and highly available cloud infrastructure using AWS, DevOps, Linux, Docker, Kubernetes, Terraform, and Jenkins.
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&width=700&lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Always+Learning+New+Cloud+Technologies" alt="Typing SVG" />
+</p>
+
+---
 
 # 💫 About Me
 
--   🎓 B.Tech -- Artificial Intelligence & Data Science
--   ☁️ Aspiring Cloud & DevOps Engineer
--   🐧 Passionate about Linux & Cloud Infrastructure
--   🌐 Strong Foundation in Networking
--   🚀 Building Practical AWS Projects
--   ⚙️ Learning Docker, Kubernetes, Terraform & Jenkins
--   💼 Open to Cloud & DevOps Opportunities
+I'm an aspiring **Cloud & DevOps Engineer** passionate about building secure, scalable, and automated cloud infrastructure.
 
-------------------------------------------------------------------------
+I enjoy designing real-world AWS architectures, deploying applications, automating infrastructure, and learning modern DevOps practices.
 
-# 🛠️ Tech Stack
+Currently focused on mastering AWS services, Infrastructure as Code, CI/CD, Containers, Kubernetes, and Cloud Monitoring while building practical projects.
+
+- 🎓 B.Tech – Artificial Intelligence & Data Science
+- ☁️ Aspiring Cloud & DevOps Engineer
+- 🐧 Linux Enthusiast
+- ⚙️ DevOps Learner
+- 🌐 Strong Networking Fundamentals
+- 🚀 Building Real-World AWS Projects
+- 📚 Currently Learning Kubernetes & Terraform
+- 💼 Open to Cloud Engineer / DevOps Engineer Opportunities
+
+---
+
+# 🛠 Tech Stack
 
 ## ☁️ Cloud
 
-AWS • IAM • EC2 • VPC • S3 • EBS • EFS • Route 53 • CloudFront • ALB •
-Auto Scaling • CloudWatch • SNS • SQS
+- AWS
+- IAM
+- EC2
+- VPC
+- S3
+- EBS
+- EFS
+- RDS
+- Route 53
+- CloudFront
+- Elastic Load Balancer
+- Auto Scaling
+- CloudWatch
+- SNS
+- SQS
+- Systems Manager
+
+---
 
 ## 🚀 DevOps
 
-Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • Git •
-GitHub
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- GitHub Actions
+- Git
+- GitHub
+
+---
 
 ## 🐧 Linux & Networking
 
-Amazon Linux • Ubuntu • Bash • SSH • TCP/IP • DNS • Route Tables • NAT
-Gateway • Internet Gateway • Security Groups • NACLs
+- Amazon Linux
+- Ubuntu
+- Linux Administration
+- Bash Scripting
+- TCP/IP
+- DNS
+- SSH
+- Routing
+- Subnetting
+- Route Tables
+- Internet Gateway
+- NAT Gateway
+- Security Groups
+- Network ACLs
+
+---
 
 ## 💻 Programming
 
-Python • Shell • HTML • CSS • JavaScript
+- Python
+- Shell Scripting
+- HTML
+- CSS
+- JavaScript
 
-------------------------------------------------------------------------
+---
 
-# 🚀 Featured Projects
+## 🛠 Tools
 
-  -----------------------------------------------------------------------
-  Project                       Description
-  ----------------------------- -----------------------------------------
-  Enterprise Cloud DevOps       Enterprise-grade AWS infrastructure with
-  Platform                      VPC, ALB, Auto Scaling, CloudWatch and
-                                Route 53
+- VS Code
+- GitHub
+- PuTTY
+- WinSCP
+- Postman
+- Docker Desktop
 
-  AWS VPC Architecture          Public & Private Subnets, IGW, NAT
-                                Gateway, Security Groups
+---
 
-  Multi-Server Website          High Availability using ALB
+# 🚀 Featured Repositories
 
-  Route 53 + CloudFront         Custom Domain Hosting
+## ☁️ Enterprise Cloud DevOps Platform
 
-  Bastion Host                  Secure SSH Access
+Designed and deployed an enterprise-grade AWS infrastructure following best practices.
 
-  CloudWatch Monitoring         Monitoring & Email Alerts
+### Features
 
-  Docker Projects               Containerized Applications
+- Secure VPC Architecture
+- Public & Private Subnets
+- Internet Gateway
+- NAT Gateway
+- Bastion Host
+- EC2
+- Application Load Balancer
+- Auto Scaling
+- Route 53
+- CloudWatch Monitoring
+- IAM
+- Security Groups
+- Network ACLs
 
-  Kubernetes Projects           Container Orchestration
+---
 
-  Terraform Projects            Infrastructure as Code
-  -----------------------------------------------------------------------
+## 🌐 Multi-Server Website using ALB
 
-------------------------------------------------------------------------
+A highly available website deployed across multiple EC2 instances behind an Application Load Balancer.
+
+### Technologies
+
+- EC2
+- ALB
+- Target Groups
+- Apache
+- Route 53
+
+---
+
+## 🌍 Route 53 + CloudFront + Namecheap
+
+Hosted a custom domain with HTTPS using Route 53, CloudFront, and Namecheap DNS.
+
+### Features
+
+- Custom Domain
+- HTTPS
+- Global CDN
+- DNS Management
+
+---
+
+## 🔐 Secure Bastion Host Architecture
+
+Implemented secure SSH access to private EC2 instances using a Bastion Host.
+
+---
+
+## 📊 AWS Monitoring Project
+
+Implemented infrastructure monitoring using Amazon CloudWatch.
+
+### Includes
+
+- CPU Monitoring
+- Memory Monitoring
+- Alarms
+- Email Notifications
+
+---
+
+## 🐳 Docker Projects
+
+Containerized web applications using Docker.
+
+---
+
+## ☸ Kubernetes Projects
+
+Learning and deploying containerized applications on Kubernetes.
+
+---
+
+## 🏗 Terraform Infrastructure
+
+Infrastructure as Code projects using Terraform.
+
+---
+
+# 📂 Repository Highlights
+
+| Project | Description |
+|----------|-------------|
+| Enterprise Cloud DevOps Platform | Enterprise AWS architecture using VPC, ALB, Auto Scaling, CloudWatch, Route53 and Bastion Host |
+| AWS VPC Architecture | Public & Private Subnets with secure networking |
+| ALB Multi Server Deployment | Highly available web application deployment |
+| Route53 + CloudFront Website | Custom Domain hosting |
+| Bastion Host | Secure private EC2 access |
+| CloudWatch Monitoring | Monitoring & Alerting |
+| Docker Projects | Containerization |
+| Kubernetes Projects | Container Orchestration |
+| Terraform Projects | Infrastructure as Code |
+
+---
 
 # 📜 Certifications
 
--   AWS Cloud Practitioner Essentials
--   AWS Knowledge -- Cloud Essentials
--   AWS Networking Basics
--   Cisco Networking Basics
--   Python Essentials
+### AWS
 
-------------------------------------------------------------------------
+- AWS Cloud Practitioner Essentials
+- AWS Cloud Quest
+- AWS Knowledge Cloud Essentials
+- AWS Networking Basics
+
+### DevOps
+
+- Git & GitHub
+- Linux Administration
+- Docker (Learning)
+- Kubernetes (Learning)
+- Terraform (Learning)
+
+---
 
 # 📈 GitHub Stats
 
-Replace **YOUR_USERNAME** below with your GitHub username.
+<p align="center">
 
-``` md
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
+</p>
 
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
+---
 
-https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight
-```
+# 🔥 GitHub Streak
 
-------------------------------------------------------------------------
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
 
 # 🤝 Connect With Me
 
--   💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
--   📧 Email: your-email@example.com
--   🌐 Portfolio: Coming Soon
+📧 Email: your-email@example.com
 
-------------------------------------------------------------------------
+💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
 
-# ⭐ Quote
+🌐 Portfolio: Coming Soon
 
-> **"Building secure, scalable and automated cloud solutions one AWS
-> project at a time."**
+---
 
-If you like my work, don't forget to ⭐ my repositories!
+# ⭐ Thanks for visiting my profile!
+
+> **"Building secure, scalable, and automated cloud solutions one AWS project at a time while continuously learning DevOps best practices."**
+
+⭐ If you like my projects, don't forget to **Star** the repositories!
