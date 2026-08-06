@@ -98,7 +98,7 @@ A collection of <strong>hands-on AWS projects</strong> focused on designing, dep
 <h3 align="center">📖 Explore the Complete Repository</h3>
 
 <p align="center">
-<a href="https://github.com/Mohamedthoufiq31">
+<a href="https://github.com/Mohamedthoufiq31/AWS-Projects">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -122,7 +122,7 @@ A collection of <strong>hands-on AWS projects</strong> focused on designing, dep
 
 <p align="center">
 
-<a href="https://github.com/Mohamedthoufiq31/AWS-Certifications">
+<a href="https://github.com/Mohamedthoufiq31/Certifications">
 
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
 
