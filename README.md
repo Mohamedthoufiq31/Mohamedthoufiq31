@@ -88,51 +88,51 @@ I enjoy building real-world cloud projects, automating deployments, implementing
 A collection of <strong>hands-on AWS projects</strong> focused on designing, deploying, securing, and automating cloud infrastructure using AWS best practices.
 </p>
 
-| 🚀 Project                           | Description                                                                                                                                                                                                                                                                      |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Enterprise Cloud DevOps Platform** | Built a highly available AWS cloud infrastructure using Amazon VPC, EC2, EFS, Application Load Balancer, Auto Scaling, CloudWatch, SNS, Route 53, CloudFront, and automated S3 backups using Linux Cron, following enterprise cloud architecture best practices.                 |
-| **AWS ALB Path-Based Routing**       | Designed and deployed a path-based routing architecture using an Application Load Balancer to host multiple web applications on Amazon EC2. Configured Target Groups, Health Checks, Amazon EFS shared storage, and URL-based routing for improved scalability and availability. |
+| 🚀 Project | Description |
+|------------|-------------|
+| **Enterprise Cloud DevOps Platform** | Built a highly available AWS cloud infrastructure using Amazon VPC, EC2, EFS, Application Load Balancer, Auto Scaling, CloudWatch, SNS, Route 53, CloudFront, and automated S3 backups using Linux Cron, following enterprise cloud architecture best practices. |
+| **AWS ALB Path-Based Routing** | Designed and deployed a path-based routing architecture using an Application Load Balancer to host multiple web applications on Amazon EC2. Configured Target Groups, Health Checks, Amazon EFS shared storage, and URL-based routing for improved scalability and availability. |
+
+<br>
+
+<h3 align="center">📖 Explore the Complete Repository</h3>
 
 <p align="center">
-
-### 📖 Explore the Complete Repository
-
-<a href="https://github.com/Mohamedthoufiq31/AWS-Certifications">
-<img src="https://img.shields.io/badge/View_Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
-
+<a href="https://github.com/Mohamedthoufiq31">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
 # 📜 Certifications
 
-<h2 align="center">🏅 Certifications</h2>
+
+| 🏅 Certification | Category | Description |
+|:-----------------|:--------:|:------------|
+| ☁️ **AWS Cloud Practitioner Essentials** | AWS Cloud | Completed AWS Cloud Practitioner Essentials covering AWS Global Infrastructure, IAM, Compute, Storage, Networking, Security, Pricing, and AWS Cloud best practices. |
+| ☁️ **AWS SimuLearn – Cloud Practitioner** | AWS Cloud | Completed hands-on AWS SimuLearn focused on practical cloud concepts, AWS services, and real-world cloud implementation. |
+| 🌐 **Cisco Networking Basics** | Networking | Built a strong foundation in IP Addressing, Routing, Switching, TCP/IP, Wireless Networking, DNS, and Cisco Packet Tracer. |
+| 🐍 **Python Essentials 1** | Programming | Learned Python fundamentals including variables, data types, loops, functions, debugging, object-oriented programming, and problem-solving. |
+| ☁️ **Datacom – Introduction to Cloud Job Simulation** | Cloud & DevOps | Completed a cloud engineering job simulation covering Cloud Fundamentals, Git, GitHub Actions, CI/CD basics, workflow automation, and DevOps practices. |
+
+---
+
+<h2 align="center">📖 Explore the Complete Repository</h2>
 
 <p align="center">
-A central repository showcasing my cloud, networking, Linux, and DevOps certifications.
-</p>
-
-| 🏅 Certification                                   | Description                                                                                                                                     |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AWS Cloud Practitioner Essentials**              | Covered AWS Global Infrastructure, IAM, Compute, Storage, Networking, Security, Pricing, and AWS Cloud best practices.                          |
-| **AWS Networking Basics**                          | Learned Amazon VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, Security Groups, Network ACLs, Elastic IP, DNS, and VPC connectivity. |
-| **Cisco Networking Basics**                        | Built a strong foundation in Routing, Switching, IP Addressing, Network Protocols, Wireless Networking, and Cisco Packet Tracer.                |
-| **Datacom – Introduction to Cloud Job Simulation** | Completed a cloud engineering simulation covering Git, GitHub Actions, CI/CD basics, cloud fundamentals, and workflow automation.               |
-
-<p align="center">
-
-### 📖 Explore the Complete Repository
 
 <a href="https://github.com/Mohamedthoufiq31/AWS-Certifications">
-<img src="https://img.shields.io/badge/View_Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
-</p>
+<p align="center">
 
----
+⭐ <strong>Continuous Learning • Cloud Computing • DevOps • Networking • Python</strong> ⭐
+
+</p>
 
 
 # 🏆 GitHub Trophies
