@@ -14,10 +14,9 @@ Building secure, scalable, and highly available cloud infrastructure using AWS, 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Always+Learning+New+Cloud+Technologies"/>
 </p>
 
-
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 I'm an aspiring **Cloud & DevOps Engineer** passionate about designing secure, scalable, and automated cloud infrastructure on AWS.
 
@@ -34,7 +33,7 @@ I enjoy building real-world cloud projects, automating deployments, implementing
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
