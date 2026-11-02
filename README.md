@@ -89,9 +89,12 @@ A collection of <strong>hands-on AWS projects</strong> focused on designing, dep
 </p>
 
 | 🚀 Project | Description |
-|------------|-------------|
-| **Enterprise Cloud DevOps Platform** | Built a highly available AWS cloud infrastructure using Amazon VPC, EC2, EFS, Application Load Balancer, Auto Scaling, CloudWatch, SNS, Route 53, CloudFront, and automated S3 backups using Linux Cron, following enterprise cloud architecture best practices. |
-| **AWS ALB Path-Based Routing** | Designed and deployed a path-based routing architecture using an Application Load Balancer to host multiple web applications on Amazon EC2. Configured Target Groups, Health Checks, Amazon EFS shared storage, and URL-based routing for improved scalability and availability. |
+|---|---|
+| [🏦 SecureBank – 3-Tier Banking Application](./securebank-3-tier-devops) | Designed and deployed a containerized 3-tier banking application using Docker, AWS EC2, Ansible, and Linux, focusing on application deployment, infrastructure management, scalability, and security. |
+| [☁️ Enterprise Cloud DevOps Platform](./enterprise-cloud-devops-platform-main) | Built a highly available AWS cloud infrastructure using Amazon VPC, EC2, EFS, Application Load Balancer, Auto Scaling, CloudWatch, SNS, Route 53, CloudFront, and automated S3 backups using Linux Cron. |
+| [📊 Enterprise AWS Production Observability, Security & Automated Incident Response](./enterprise-aws-production-observability) | Implemented EC2 monitoring using CloudWatch and CloudWatch Agent, configured alarms and EventBridge automation, and integrated Lambda for automated incident response, S3 for JSON incident log archiving, and SNS for real-time notifications. |
+| [🌐 AWS Application Load Balancer Path-Based Routing](./aws-alb-path-based-routing-main) | Designed and deployed a path-based routing architecture using an Application Load Balancer to host multiple web applications on Amazon EC2. Configured Target Groups, Health Checks, Amazon EFS shared storage, and URL-based routing for improved scalability and availability. |
+| [☕ Apache Tomcat on AWS](./tomcat-project-main) | Deployed a Java web application using Apache Tomcat on AWS EC2, demonstrating Java application hosting, server configuration, and cloud-based application deployment. |
 
 <br>
 
