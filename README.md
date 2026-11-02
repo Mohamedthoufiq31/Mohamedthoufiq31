@@ -10,6 +10,10 @@ Hi 👋, I'm Mohamed Thoufiq K
 Building secure, scalable, and highly available cloud infrastructure using AWS, DevOps, Linux, Docker, Kubernetes, Terraform, and Jenkins.
 </p>
 
+---
+
+---
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Always+Learning+New+Cloud+Technologies"/>
 </p>
@@ -33,13 +37,11 @@ I enjoy building real-world cloud projects, automating deployments, implementing
 
 ---
 
-## 🛠 Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,python,vscode" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,ansible,terraform,prometheus,grafana,linux,git,github,python" />
+</p>
 
 ---
 
@@ -51,13 +53,31 @@ I enjoy building real-world cloud projects, automating deployments, implementing
 <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Application_Load_Balancer-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EFS-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/EventBridge-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EFS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+## 🔗 DevOps Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 </p>
 
@@ -67,13 +87,12 @@ I enjoy building real-world cloud projects, automating deployments, implementing
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash"/>
-<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DNS-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NAT_Gateway-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Security_Groups-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/SSH-181717?style=for-the-badge&logo=openssh&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DNS-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NAT%20GATEWAY-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY%20GROUPS-3F9C35?style=for-the-badge"/>
 
 </p>
 
