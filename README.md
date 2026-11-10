@@ -47,54 +47,16 @@ I enjoy building real-world cloud projects, automating deployments, implementing
 
 ## ☁️ AWS Services
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/EventBridge-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/EFS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-
----
+- **AWS:** EC2, Lambda, Amazon ECS, S3, EFS, VPC, Load Balancers, Auto Scaling, Route 53, CloudFront, CloudWatch, EventBridge, IAM, SNS, SQS
 
 ## 🔗 DevOps Tools
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-</p>
-
----
+- **DevOps:** Git, GitHub, Docker, Jenkins, Ansible, Terraform, Prometheus, Grafana, Splunk 
 
 ## 🐧 Linux & Networking
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/SSH-181717?style=for-the-badge&logo=openssh&logoColor=white"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DNS-E34F26?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NAT%20GATEWAY-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SECURITY%20GROUPS-3F9C35?style=for-the-badge"/>
-
-</p>
+- **Operating Systems:** Linux, Windows
+- **Networking:** SSH, TCP/IP, DNS, NAT Gateway, Security Groups
 
 ---
 
